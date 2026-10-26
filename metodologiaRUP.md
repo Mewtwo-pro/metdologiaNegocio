@@ -162,4 +162,3 @@ De esta manera, el restaurante puede reducir los errores en la toma de pedidos, 
 
 Importante: el documento del proyecto describe un prototipo en Java Swing y una propuesta web, pero señala que todavía no existe una implementación productiva completa ni una integración real con la base de datos y los servicios de pago. Por eso, las fases de construcción y transición descritas aquí son una propuesta de aplicación de RUP, no una afirmación de que todo el sistema ya esté desarrollado.
 
-¿Quieres que también te ayude a convertir esta aplicación de RUP en un informe académico listo para presentar, con portada, objetivos, fases y diagramas UML? Puedo ayudarte a organizarlo por secciones y hacer seguimiento si necesitas terminarlo para una fecha concreta.
